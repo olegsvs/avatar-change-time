@@ -1,2 +1,2 @@
-api_id = 123456
-api_hash = 'abcdefg123456'
+api_id = 111
+api_hash = '222'
